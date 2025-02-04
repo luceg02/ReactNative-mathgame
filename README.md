@@ -32,9 +32,10 @@ Ce projet est un jeu de calcul mental en React Native. Le but est de résoudre d
    ```
    npx expo start
    ```
-7. L'application Expo s'ouvrira dans votre navigateur. Vous pouvez :
+7. Vous pouvez maintenant:
    - Lancer l'app sur un émulateur/simulateur Android/iOS
    - Lancer l'app sur votre appareil physique en scannant le QR code avec l'app [Expo Go](https://expo.dev/client)
+   - Lancer l'application dans votre navigateur web en appuyant sur `w` dans le terminal où `npx expo start` est en cours d'exécution
 
 ## Jouer
 
