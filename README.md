@@ -1,45 +1,49 @@
-# Jeu de Calcul Mental
+# 🧠 Mental Math Game
 
-Ce projet est un jeu de calcul mental en React Native. Le but est de résoudre des additions le plus rapidement possible.
+This project is a **mental math game** built with **React Native** and **Expo**.  
+The objective is to solve addition problems as fast as possible!
 
-## Fonctionnalités
+## 🚀 Features
 
-- Deux modes de jeu : Facile (2 nombres jusqu'à 50, 5s) et Difficile (3 nombres jusqu'à 100, 3s)
-- Compte à rebours
-- Vérification de la réponse de l'utilisateur
-- Affichage d'un message de résultat
+- Two game modes:  
+  - **Easy**: 2 numbers up to 50, 5 seconds to answer  
+  - **Hard**: 3 numbers up to 100, 3 seconds to answer  
+- Countdown timer  
+- User input validation  
+- Instant result feedback 
 
-## Installation
+## 📦 Installation
 
-1. Assurez-vous d'avoir [Node.js](https://nodejs.org/) installé (v12 ou supérieure)
-2. Installez [Expo CLI] globalement : 
+1. Make sure you have [Node.js](https://nodejs.org/) installed (v12 or higher)
+2. Install Expo CLI globally: 
    ```
    npm install -g expo-cli
    ```
-3. Clonez ce repository :
+3. Clone this repository:
    ```
    git clone <URL_REPOSITORY>
    ```
-4. Naviguez dans le dossier du projet :
+4. Navigate to the project directory:
    ```
    cd <NOM_DOSSIER>
    ```
-5. Installez les dépendances du projet :
+5. Install project dependencies:
    ```
    npm install
    ```
-6. Démarrez le serveur de développement :
+6. Start the development server:
    ```
    npx expo start
    ```
-7. Vous pouvez maintenant:
-   - Lancer l'app sur un émulateur/simulateur Android/iOS
-   - Lancer l'app sur votre appareil physique en scannant le QR code avec l'app [Expo Go](https://expo.dev/client)
-   - Lancer l'application dans votre navigateur web en appuyant sur `w` dans le terminal où `npx expo start` est en cours d'exécution
+7. You can now:
 
-## Jouer
+- Run the app on an Android/iOS emulator or simulator
+- Run it on a physical device using the Expo Go app by scanning the QR code
+- Launch it in your web browser by pressing w in the terminal
 
-- Choisissez un mode sur l'écran d'accueil
-- Entrez votre réponse dans le champ prévu
-- Appuyez sur "Submit" pour vérifier
-- "New Game" démarre une nouvelle partie
+## 🎮 How to Play
+
+- Select a mode from the home screen
+- Type your answer in the input field
+- Tap "Submit" to validate your answer
+- Tap "New Game" to start a new round
