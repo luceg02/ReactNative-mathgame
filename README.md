@@ -21,11 +21,11 @@ The objective is to solve addition problems as fast as possible!
    ```
 3. Clone this repository:
    ```
-   git clone <URL_REPOSITORY>
+   git clone https://github.com/luceg02/ReactNative-mathgame.git
    ```
 4. Navigate to the project directory:
    ```
-   cd <NOM_DOSSIER>
+   cd ReactNative-mathgame
    ```
 5. Install project dependencies:
    ```
